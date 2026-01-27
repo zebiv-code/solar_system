@@ -1,0 +1,15 @@
+{
+  "name": "solar-system",
+  "version": "1.0.0",
+  "description": "Interactive 3D solar system visualization with realistic planetary orbits and textures.",
+  "author": "Bill Heyman <bill@heyman.ai> (https://billheyman.com)",
+  "license": "MIT",
+  "homepage": "https://zebiv.com/solar-system/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zebiv-code/solar_system/"
+  },
+  "scripts": {
+    "start": "npx serve web -l 3000"
+  }
+}
